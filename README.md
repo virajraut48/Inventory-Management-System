@@ -12,3 +12,6 @@ This repository is having all the codes with json files for making an Inventory 
 
 2. Add new items in inventory
 <img src="P4.png">
+
+3. Updated Json file after adding items
+<img src="P2.png">
