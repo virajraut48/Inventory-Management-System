@@ -4,3 +4,10 @@ This repository is having all the codes with json files for making an Inventory 
 2. Purchase of items can be done
 3. Bill generation
 4. History of sold items with customer details
+
+## Output
+1. Purchasing of items with bill 
+<img src="P3.png">
+
+2. Add new items in inventory
+<img src="
